@@ -1,0 +1,15 @@
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.Dal.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.Dal.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.IDal.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.Model.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\InternalMemeryRestore.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\mDbDataAdaper.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\WebStyleBaseForEnergy.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.IDal.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\DataAuthorization.Model.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\InternalMemeryRestore.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\mDbDataAdaper.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\bin\Release\WebStyleBaseForEnergy.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\obj\Release\DataAuthorization.Dal.csprojResolveAssemblyReference.cache
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\obj\Release\DataAuthorization.Dal.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Dal\obj\Release\DataAuthorization.Dal.pdb

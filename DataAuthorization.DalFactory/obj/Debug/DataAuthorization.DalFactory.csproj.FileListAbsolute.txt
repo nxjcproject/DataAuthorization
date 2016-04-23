@@ -1,0 +1,12 @@
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.DalFactory.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.DalFactory.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.IDal.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataFactory.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\Spring.Core.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.Model.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.IDal.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataFactory.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\bin\Debug\DataAuthorization.Model.pdb
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\obj\Debug\DataAuthorization.DalFactory.csprojResolveAssemblyReference.cache
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\obj\Debug\DataAuthorization.DalFactory.dll
+C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.DalFactory\obj\Debug\DataAuthorization.DalFactory.pdb
