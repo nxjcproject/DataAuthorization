@@ -2,3 +2,8 @@ C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorizati
 C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Model\bin\Release\DataAuthorization.Model.pdb
 C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Model\obj\Release\DataAuthorization.Model.dll
 C:\工作\编程\恒拓软件\三层框架V3.1\DataAuthorization\DataAuthorization.Model\obj\Release\DataAuthorization.Model.pdb
+C:\Users\Administrator\Desktop\7.7修改权限\DataAuthorization-master\DataAuthorization.Model\bin\Release\DataAuthorization.Model.dll
+C:\Users\Administrator\Desktop\7.7修改权限\DataAuthorization-master\DataAuthorization.Model\bin\Release\DataAuthorization.Model.pdb
+C:\Users\Administrator\Desktop\7.7修改权限\DataAuthorization-master\DataAuthorization.Model\obj\Release\DataAuthorization.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\7.7修改权限\DataAuthorization-master\DataAuthorization.Model\obj\Release\DataAuthorization.Model.dll
+C:\Users\Administrator\Desktop\7.7修改权限\DataAuthorization-master\DataAuthorization.Model\obj\Release\DataAuthorization.Model.pdb

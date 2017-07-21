@@ -16,7 +16,15 @@ namespace DataAuthorization.Web.UI_DataAuthorization
             {
             }
         }
-
+        /// <summary>
+        /// 增删改查权限控制
+        /// </summary>
+        /// <returns></returns>
+        [WebMethod]
+        public static char[] AuthorityControl()
+        {
+            return mPageOpPermission.ToArray();
+        }
         [WebMethod]
         public static string GetProductionOrganizationInfo()
         {

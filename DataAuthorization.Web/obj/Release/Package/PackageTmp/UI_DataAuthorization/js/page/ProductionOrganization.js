@@ -1,7 +1,34 @@
 ﻿$(document).ready(function () {
     loadProdutionOrganizationData('first');
     InitializeAddUserAuthorizationDialog();
+    initPageAuthority();
 });
+
+function initPageAuthority() {
+    $.ajax({
+        type: "POST",
+        url: "ProductionOrganization.aspx/AuthorityControl",
+        data: "",
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        async: false,//同步执行
+        success: function (msg) {
+            PageOpPermission = msg.d;
+            //增加
+            if (PageOpPermission[1] == '0') {
+                $("#id_add").linkbutton('disable');
+            }
+            //修改
+            //if (authArray[2] == '0') {
+            //    $("#edit").linkbutton('disable');
+            //}
+            //删除
+            //if (PageOpPermission[3] == '0') {
+            //    $("#id_deleteAll").linkbutton('disable');
+            //}
+        }
+    });
+}
 
 function loadProdutionOrganizationData(myLoadType) {
     //parent.$.messager.progress({ text: '数据加载中....' });
